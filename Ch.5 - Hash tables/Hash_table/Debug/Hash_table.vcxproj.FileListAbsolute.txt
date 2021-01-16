@@ -1,0 +1,2 @@
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.5 - Hash tables\Hash_table\Debug\Hash_table.exe
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.5 - Hash tables\Hash_table\Debug\Hash_table.pdb

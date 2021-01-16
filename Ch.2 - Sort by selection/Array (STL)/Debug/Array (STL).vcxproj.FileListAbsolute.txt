@@ -1,0 +1,2 @@
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.2 - Sort by selection\Array (STL)\Debug\Array (STL).exe
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.2 - Sort by selection\Array (STL)\Debug\Array (STL).pdb

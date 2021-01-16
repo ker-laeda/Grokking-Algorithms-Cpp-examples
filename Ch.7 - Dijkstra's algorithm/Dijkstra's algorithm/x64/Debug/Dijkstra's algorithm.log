@@ -1,0 +1,4 @@
+﻿  Dijkstra's algorithm.cpp
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.7 - Dijkstra's algorithm\Dijkstra's algorithm\Dijkstra's algorithm.cpp(7,1): warning C4005: INFINITY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : см. предыдущее определение "INFINITY"
+  Dijkstra's algorithm.vcxproj -> D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.7 - Dijkstra's algorithm\Dijkstra's algorithm\x64\Debug\Dijkstra's algorithm.exe

@@ -1,0 +1,3 @@
+﻿  Linked lists.cpp
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.2 - Sort by selection\Linked lists\Linked lists.cpp(79): warning C4715: LList<int>::operator[]: значение возвращается не при всех путях выполнения
+  Linked lists.vcxproj -> D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.2 - Sort by selection\Linked lists\Debug\Linked lists.exe

@@ -1,0 +1,4 @@
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.8 - Greedy algorithm\Set cover problem\x64\Debug\Set cover problem.exe
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.8 - Greedy algorithm\Set cover problem\x64\Debug\Set cover problem.pdb
+C:\Users\Darkwolf\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.8 - Greedy algorithm\Set cover problem\x64\Debug\Set cover problem.exe
+C:\Users\Darkwolf\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.8 - Greedy algorithm\Set cover problem\x64\Debug\Set cover problem.pdb

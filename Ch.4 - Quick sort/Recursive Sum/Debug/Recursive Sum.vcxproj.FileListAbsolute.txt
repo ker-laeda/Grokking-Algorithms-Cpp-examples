@@ -1,0 +1,2 @@
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.4 - Quick sort\Recursive Sum\Debug\Recursive Sum.exe
+D:\YandexDisk\Личное\Хобби\Программирование\C\Projects\Grokking Algorithms (Cpp examples)\Ch.4 - Quick sort\Recursive Sum\Debug\Recursive Sum.pdb
